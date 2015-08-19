@@ -1,0 +1,15 @@
+{
+  "name": "angularPrac",
+  "version": "0.0.0",
+  "authors": [
+    "Taimoor Tariq <taimoor_t@yahoo.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
